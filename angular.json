@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-quiz"
+  "defaultProject": "angular-quiz",
+  "cli": {
+    "analytics": false
+  }
 }
